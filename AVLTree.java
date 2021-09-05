@@ -2,15 +2,6 @@
  * public class AVLNode
  * <p>
  * This class represents an AVLTree with integer keys and boolean values.
- * <p>
- * IMPORTANT: do not change the signatures of any function (i.e. access modifiers, return type, function name and
- * arguments. Changing these would break the automatic tester, and would result in worse grade.
- * <p>
- * However, you are allowed (and required) to implement the given functions, and can add functions of your own
- * according to your needs.
- */
-//Jacob Goldsmith 329575427 jg
-//Hila Lewin 206823163 hilalewin
 
 import java.util.ArrayList;
 import java.util.List;
